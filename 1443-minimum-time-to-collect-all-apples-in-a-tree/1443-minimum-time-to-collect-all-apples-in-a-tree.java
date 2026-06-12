@@ -17,7 +17,7 @@ class Solution {
         for(int neighbour:adjList.get(src)){
             if(neighbour==parent) continue;
             int timeTakenByChild=dfs(neighbour,src,adjList,hasApple);
-            if(timeTakenByChild>0 || hasApple.get(neighbour)){
+            if(timeTakenByChild>0 || hasApple.get(neighbour)){ //either subtree ke paas apple hai or ussi child/node ke paas apple hai  
                 totalTime+=timeTakenByChild+2;
             }
         }
