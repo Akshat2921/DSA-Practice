@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Matrix
 |  |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -53,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -71,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Tree
 |  |
