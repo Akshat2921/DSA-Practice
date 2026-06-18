@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
