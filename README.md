@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akshat2921/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Akshat2921/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
