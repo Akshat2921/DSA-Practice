@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Akshat2921/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat2921/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat2921/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Shortest Path
 |  |
 | ------- |
