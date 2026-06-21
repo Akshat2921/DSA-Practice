@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1732-find-the-highest-altitude](https://github.com/Akshat2921/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
 |  |
 | ------- |
@@ -193,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akshat2921/DSA-Practice/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
