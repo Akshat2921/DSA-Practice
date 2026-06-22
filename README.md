@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat2921/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Akshat2921/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akshat2921/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akshat2921/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Akshat2921/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Akshat2921/DSA-Practice/tree/master/1020-number-of-enclaves) |
