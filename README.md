@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akshat2921/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshat2921/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat2921/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshat2921/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Akshat2921/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshat2921/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat2921/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
