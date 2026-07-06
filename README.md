@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Akshat2921/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshat2921/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat2921/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
+| [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
