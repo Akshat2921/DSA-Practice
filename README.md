@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat2921/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshat2921/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat2921/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Akshat2921/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshat2921/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat2921/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat2921/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat2921/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akshat2921/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
 |  |
