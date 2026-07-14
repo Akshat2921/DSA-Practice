@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Simulation
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akshat2921/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -320,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Akshat2921/DSA-Practice/tree/master/1291-sequential-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
