@@ -16,9 +16,10 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
 
-            /*
+           /*
+            
         Time complexity: O(n), Space complexity: O(n) (queue + result).
-            */
+            
 
         List<Integer> result=new ArrayList<>();
         if(root==null) return result;
@@ -40,5 +41,18 @@ class Solution {
             }
         }
         return result;
+        */
+
+        List<Integer> result=new ArrayList<>();
+        dfs_approach(root,1,result,0);
+        return result;
+    }
+    private void dfs_approach(TreeNode node,int level,List<Integer> result,int size_of_list){
+        if(node==null) return;
+
+        if(level>result.size()) result.add(node.val);
+
+        dfs_approach(node.right,level+1,result,result.size());
+        dfs_approach(node.left,level+1,result,result.size());
     }
 }
