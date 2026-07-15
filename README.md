@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Akshat2921/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akshat2921/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Topological Sort
 |  |
 | ------- |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Akshat2921/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
