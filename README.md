@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat2921/DSA-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshat2921/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0210-course-schedule-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshat2921/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0210-course-schedule-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akshat2921/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
