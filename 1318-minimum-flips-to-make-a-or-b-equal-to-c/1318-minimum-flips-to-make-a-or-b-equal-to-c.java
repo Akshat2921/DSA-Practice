@@ -3,7 +3,7 @@ class Solution {
         /*
         int flips_required=0;
 
-        while(a>0 || b>0 || c>0){
+        while(a>0 || b>0 || c>0){  //O(log(max(a,b,c))
 
             if((c&1)==1){
                 if((a&1)==0 && (b&1)==0){
@@ -18,11 +18,19 @@ class Solution {
             c>>=1;
         }
         return flips_required;
+
+        tc-> O(log(max(a,b,c))
+        sc -> O(1)
         */
 
         int a_OR_b=a|b;
         int now_XOR_with_c= a_OR_b ^ c;
 
         return Integer.bitCount(now_XOR_with_c)+Integer.bitCount(now_XOR_with_c & (a & b));
+
+        /* 
+          tc->O(1) and Integer.bitCount() bhi internally O(1) hai
+          Space Complexity: O(1)
+         */
     }
 }
