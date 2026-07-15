@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Akshat2921/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat2921/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0938-range-sum-of-bst](https://github.com/Akshat2921/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Akshat2921/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat2921/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/Akshat2921/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search
@@ -352,4 +354,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat2921/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/Akshat2921/DSA-Practice/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Akshat2921/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
