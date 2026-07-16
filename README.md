@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshat2921/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Akshat2921/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Akshat2921/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Akshat2921/DSA-Practice/tree/master/0133-clone-graph) |
+| [0433-minimum-genetic-mutation](https://github.com/Akshat2921/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshat2921/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat2921/DSA-Practice/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Akshat2921/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Akshat2921/DSA-Practice/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat2921/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
