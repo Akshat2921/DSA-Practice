@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Simulation
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat2921/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Akshat2921/DSA-Practice/tree/master/0443-string-compression) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshat2921/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akshat2921/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/Akshat2921/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat2921/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
