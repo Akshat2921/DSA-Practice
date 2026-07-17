@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshat2921/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Akshat2921/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akshat2921/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -376,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Akshat2921/DSA-Practice/tree/master/0938-range-sum-of-bst) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
