@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat2921/DSA-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Akshat2921/DSA-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Akshat2921/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshat2921/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat2921/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Akshat2921/DSA-Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Akshat2921/DSA-Practice/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Akshat2921/DSA-Practice/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshat2921/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
