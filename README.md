@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/Akshat2921/DSA-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat2921/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat2921/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akshat2921/DSA-Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat2921/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akshat2921/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat2921/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/Akshat2921/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akshat2921/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
