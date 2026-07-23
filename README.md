@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshat2921/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/Akshat2921/DSA-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Akshat2921/DSA-Practice/tree/master/0130-surrounded-regions) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshat2921/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0948-bag-of-tokens](https://github.com/Akshat2921/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshat2921/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat2921/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Akshat2921/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat2921/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
