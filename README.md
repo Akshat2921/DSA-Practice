@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Akshat2921/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Akshat2921/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/Akshat2921/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat2921/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshat2921/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Akshat2921/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Akshat2921/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat2921/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat2921/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
