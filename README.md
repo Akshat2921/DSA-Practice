@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Akshat2921/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshat2921/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Akshat2921/DSA-Practice/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Akshat2921/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat2921/DSA-Practice/tree/master/0733-flood-fill) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshat2921/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshat2921/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Akshat2921/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Akshat2921/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0948-bag-of-tokens](https://github.com/Akshat2921/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Akshat2921/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshat2921/DSA-Practice/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshat2921/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Akshat2921/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Akshat2921/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Akshat2921/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshat2921/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
