@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akshat2921/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/Akshat2921/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Akshat2921/DSA-Practice/tree/master/3838-weighted-word-mapping) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Akshat2921/DSA-Practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akshat2921/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat2921/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3731-find-missing-elements](https://github.com/Akshat2921/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshat2921/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat2921/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akshat2921/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshat2921/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Akshat2921/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akshat2921/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
